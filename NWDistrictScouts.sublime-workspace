@@ -5,21 +5,10 @@
 		[
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "Advancement_Comm.html",
-			"settings":
-			{
-				"buffer_size": 23616,
-				"line_ending": "Windows"
-			}
-		}
-	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 87.0,
+		"height": 58.0,
 		"selected_items":
 		[
 			[
@@ -31,7 +20,7 @@
 				"HTMLPrettify"
 			]
 		],
-		"width": 768.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -52,6 +41,31 @@
 	},
 	"file_history":
 	[
+		"/C/Temp/NWDistrictScouts/leader_resources.html",
+		"/C/Temp/NWDistrictScouts/Units.html",
+		"/C/Temp/NWDistrictScouts/Training_Comm.html",
+		"/C/Temp/NWDistrictScouts/Training.html",
+		"/C/Temp/NWDistrictScouts/Program_Comm.html",
+		"/C/Temp/NWDistrictScouts/OA.html",
+		"/C/Temp/NWDistrictScouts/Nominating_Comm.html",
+		"/C/Temp/NWDistrictScouts/News.html",
+		"/C/Temp/NWDistrictScouts/Membership_Comm.html",
+		"/C/Temp/NWDistrictScouts/leadership_Comm.html",
+		"/C/Temp/NWDistrictScouts/Key3.html",
+		"/C/Temp/NWDistrictScouts/Advancement_Comm.html",
+		"/C/Temp/NWDistrictScouts/Awards.html",
+		"/C/Temp/NWDistrictScouts/Calendar.html",
+		"/C/Temp/NWDistrictScouts/Camping_Comm.html",
+		"/C/Temp/NWDistrictScouts/Commissioners.html",
+		"/C/Temp/NWDistrictScouts/default.html",
+		"/C/Temp/NWDistrictScouts/events.html",
+		"/C/Temp/NWDistrictScouts/Finance_Comm.html",
+		"/C/Temp/NWDistrictScouts/index.html",
+		"/C/Users/smayfield/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/smayfield/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Temp/NWDistrictScouts/images/_vti_cnf/Scuba.wmf",
+		"/C/Temp/NWDistrictScouts/images/_vti_cnf/style.css",
+		"/C/Temp/NWDistrictScouts/files/Membership_Comm/Files/News_Release_Template.doc",
 		"/C/src/NWDistrictScouts/Training.html",
 		"/C/src/NWDistrictScouts/Training_Comm.html",
 		"/C/src/NWDistrictScouts/Units.html",
@@ -126,45 +140,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "Advancement_Comm.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 23616,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15181,
-								15181
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 175.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 42.0
@@ -200,7 +175,6 @@
 	{
 		"height": 0.0
 	},
-	"project": "NWDistrictScouts.sublime-project",
 	"replace":
 	{
 		"height": 80.0
@@ -237,7 +211,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 387.0,
+	"side_bar_width": 248.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
