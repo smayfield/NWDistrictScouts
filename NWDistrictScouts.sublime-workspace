@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			]
+		],
+		"width": 768.0
+	},
+	"console":
+	{
+		"height": 262.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/src/NWDistrictScouts/Training.html",
+		"/C/src/NWDistrictScouts/Training_Comm.html",
+		"/C/src/NWDistrictScouts/Units.html",
+		"/C/src/NWDistrictScouts/leadership_Comm.html",
+		"/C/src/NWDistrictScouts/Membership_Comm.html",
+		"/C/src/NWDistrictScouts/News.html",
+		"/C/src/NWDistrictScouts/Nominating_Comm.html",
+		"/C/src/NWDistrictScouts/OA.html",
+		"/C/src/NWDistrictScouts/Program_Comm.html",
+		"/C/src/NWDistrictScouts/Advancement_Comm.html",
+		"/C/src/NWDistrictScouts/default.html",
+		"/C/src/NWDistrictScouts/events.html",
+		"/C/src/NWDistrictScouts/Finance_Comm.html",
+		"/C/src/NWDistrictScouts/index.html",
+		"/C/src/NWDistrictScouts/Key3.html",
+		"/C/src/NWDistrictScouts/leader_resources.html",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/src/NWDistrictScouts/Awards.html",
+		"/C/src/NWDistrictScouts/Calendar.html",
+		"/C/src/NWDistrictScouts/Camping_Comm.html",
+		"/C/src/NWDistrictScouts/Commissioners.html",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/src/NWDistrictScouts/images/_vti_cnf/Scuba.wmf",
+		"/C/src/NWDistrictScouts/images/_vti_cnf/style.css",
+		"/C/src/NWDistrictScouts/files/Membership_Comm/Files/News_Release_Template.doc",
+		"/C/Users/Scott/Desktop/DrAPI Notes.txt",
+		"/C/Users/Scott/Desktop/stuff.txt",
+		"/C/Users/Scott/Desktop/qBook Notes.txt",
+		"/C/Users/Scott/Desktop/Cleanup.txt",
+		"/C/Users/Scott/SkyDrive/Viva/Meeting Notes.txt",
+		"/C/temp/test.md",
+		"/C/Users/Scott/AppData/Roaming/RabbitMQ/log/rabbit@SURFACE.log",
+		"/C/Users/Scott/Desktop/CodeMash 2014 Notes.txt",
+		"/C/Users/Scott/Desktop/WebAPI Notes.txt",
+		"/C/Users/Scott/Desktop/TODO.txt",
+		"/C/Users/Scott/Desktop/STEM Presentation.txt",
+		"/C/Users/Scott/SkyDrive/Documents/Quicken Loans-Firebolt/Ground School 155/VoiceMail Script.txt",
+		"/C/Users/Scott/SkyDrive/Scouting/Troop 154/Website Plan.txt",
+		"/C/Users/Scott/Desktop/Groceries.txt",
+		"/C/Users/Scott/Desktop/Team Meeting Notes.txt",
+		"/C/Users/Scott/SkyDrive/Documents/Scout Websites.txt",
+		"/C/Users/Scott/Documents/Visual Studio 2013/Projects/ConsoleApplication1/ConsoleApplication1/bin/Release/Dotfuscated/Map.xml",
+		"/C/Users/Scott/Source/scriptcs/helloWorld.csx"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "NWDistrictScouts.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 387.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
