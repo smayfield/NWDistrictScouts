@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Advancement_Comm.html",
+			"settings":
+			{
+				"buffer_size": 23616,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -121,8 +129,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Advancement_Comm.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15181,
+								15181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 175.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
