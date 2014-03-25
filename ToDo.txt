@@ -6,7 +6,8 @@ remove span elements
 remove big elements
 remove small elements
 remove all table formatting
+remove center elements
 remove js around email addresses
 reformat titles as "page name - NW District"
 replace divs with proper html5 elements
-update <doctype> tag to be html5
+optimize/refactor tables
