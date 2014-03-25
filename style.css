@@ -3,9 +3,13 @@ LGBlue Free Template
 By Herreman David 
 http://www.free-css-templates.com
 */
-body { margin:5px 0; padding:0; font: 74% Arial, Sans-Serif; color:#000; line-height: 1.4em; background : #F0F0F0;}
+/* body { margin:5px 0; padding:0; font: 74% Arial, Sans-Serif; color:#000; line-height: 1.4em; background : #F0F0F0;} */
+body { margin:5px 0; padding:0; font: 74% Arial, Sans-Serif; color:#000; background : #F0F0F0;}
 .content { color: #505050; margin: 0 auto; padding: 0; width: 791px; background: #FFFFFF url(bg.jpg) repeat-y center; }
+/*
 #toph { background: #F0F0F0 url(top.jpg) no-repeat center top; height: 14px; margin: 0; padding: 0;}
+*/
+#toph { color: #ff0000; font-size: 20px; font-weight: bold; border: solid red 3px; margin:5px; padding:5px; text-align: center;}
 #header { color: #FFF; padding: 0 15px 0 15px; line-height: 1.0em; }
 	#header .rside { background: #125E81 url(header.jpg) no-repeat; color: #337493; float: right; height: 129px; width: 587px;  font-size: 90%; }
 	#header .citation { text-align: right; padding: 60px 25px 25px 6px; color: #f0f0f0;}
@@ -31,7 +35,7 @@ body { margin:5px 0; padding:0; font: 74% Arial, Sans-Serif; color:#000; line-he
 .nav li a:hover { color: #F29900; text-decoration: none;  }
 .boxads { background: #E7EDF0; padding: 5px; border: 1px solid #999; color: #333; }
 /* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-p { 	margin: 0 0 5px 0; 	padding: 0; color: #555; background: inherit; }
+/* p { 	 margin: 0 0 5px 0; padding: 0; color: #555;  background: inherit; } */
 hr { border: 0; height: 1px; color: #eee; background-color: #eee; }
 a { 	color: #339900; background: inherit;  text-decoration:underline; }
 a:hover { 	background: inherit;	text-decoration: none; }
