@@ -1,6 +1,7 @@
 TODO LIST
 ===========================
 
+setup facebook page
 remove font elements
 remove span elements
 remove big elements
@@ -12,3 +13,8 @@ remove empty elements that have no visual effect
 replace divs with proper html5 elements
 remove extra styles on table elements
 optimize/refactor tables
+content systems that can generate static pages that I can upload?
+
+verify troop website/database is working
+point troop154.com to azure site
+
