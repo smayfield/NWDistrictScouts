@@ -9,8 +9,6 @@ remove all table formatting
 remove center elements
 remove all "back to top" links
 remove empty elements that have no visual effect
-reformat titles as "page name - NW District"
 replace divs with proper html5 elements
-
 remove extra styles on table elements
 optimize/refactor tables
