@@ -3,15 +3,16 @@
 	{
 		"selected_items":
 		[
+			[
+				"list",
+				"list-style-type"
+			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 87.0,
+		"height": 58.0,
 		"selected_items":
 		[
 			[
@@ -23,7 +24,7 @@
 				"HTMLPrettify"
 			]
 		],
-		"width": 768.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -44,68 +45,56 @@
 	},
 	"file_history":
 	[
-		"/C/src/NWDistrictScouts/calendar.html",
-		"/C/src/NWDistrictScouts/camping_comm.html",
-		"/C/src/NWDistrictScouts/commissioners.html",
-		"/C/src/NWDistrictScouts/finance_comm.html",
-		"/C/src/NWDistrictScouts/leadership_comm.html",
-		"/C/src/NWDistrictScouts/membership_comm.html",
-		"/C/src/NWDistrictScouts/news.html",
-		"/C/src/NWDistrictScouts/nominating_comm.html",
-		"/C/src/NWDistrictScouts/oa.html",
-		"/C/src/NWDistrictScouts/program_comm.html",
-		"/C/src/NWDistrictScouts/training.html",
-		"/C/src/NWDistrictScouts/awards/boy_scout_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/crew_advisor_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/cub_scout_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/cubmaster_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/den_leader_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/district_award_of_merit.html",
-		"/C/src/NWDistrictScouts/awards/district_committee_member_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/district_executives_award.html",
-		"/C/src/NWDistrictScouts/awards/eagle_scout_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/explorer_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/index.html",
-		"/C/src/NWDistrictScouts/awards/oa_youth_member_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/parent_volunteer_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/post_advisor_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/scouting_spirit_award.html",
-		"/C/src/NWDistrictScouts/awards/scoutmaster_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/senior_patrol_leader_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/silver_beaver.html",
-		"/C/src/NWDistrictScouts/awards/tiger_leader_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/twelve_points_award.html",
-		"/C/src/NWDistrictScouts/awards/unit_commissioner_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/unit_committee_member_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/venturer_of_the_year.html",
-		"/C/src/NWDistrictScouts/advancement_comm.html",
-		"/C/src/NWDistrictScouts/index.html",
-		"/C/src/NWDistrictScouts/key3.html",
-		"/C/src/NWDistrictScouts/leader_resources.html",
-		"/C/src/NWDistrictScouts/training_comm.html",
-		"/C/src/NWDistrictScouts/units.html",
-		"/C/src/NWDistrictScouts/Advancement_Comm.html",
-		"/C/src/NWDistrictScouts/Calendar.html",
-		"/C/src/NWDistrictScouts/Camping_Comm.html",
-		"/C/src/NWDistrictScouts/Commissioners.html",
-		"/C/src/NWDistrictScouts/events.html",
-		"/C/src/NWDistrictScouts/Finance_Comm.html",
-		"/C/src/NWDistrictScouts/Key3.html",
+		"/C/Temp/NWDistrictScouts/style.css",
+		"/C/Temp/NWDistrictScouts/Advancement_Comm.html",
+		"/C/Temp/NWDistrictScouts/Camping_Comm.html",
+		"/C/Temp/NWDistrictScouts/Commissioners.html",
+		"/C/Temp/NWDistrictScouts/Finance_Comm.html",
+		"/C/Temp/NWDistrictScouts/Key3.html",
+		"/C/Temp/NWDistrictScouts/leadership_Comm.html",
+		"/C/Temp/NWDistrictScouts/Membership_Comm.html",
+		"/C/Temp/NWDistrictScouts/ToDo.txt",
+		"/C/Temp/NWDistrictScouts/Training_Comm.html",
+		"/C/Temp/NWDistrictScouts/Units.html",
+		"/C/Temp/NWDistrictScouts/News.html",
+		"/C/Temp/NWDistrictScouts/Nominating_Comm.html",
+		"/C/Temp/NWDistrictScouts/Program_Comm.html",
+		"/C/Temp/NWDistrictScouts/Awards.html",
+		"/C/Temp/NWDistrictScouts/events.html",
+		"/C/Temp/NWDistrictScouts/index.html",
+		"/C/Temp/NWDistrictScouts/leader_resources.html",
+		"/C/Temp/NWDistrictScouts/OA.html",
+		"/C/Temp/NWDistrictScouts/Calendar.html",
+		"/C/Temp/NWDistrictScouts/Training.html",
+		"/C/Temp/NWDistrictScouts/default.html",
+		"/C/Temp/NWDistrictScouts/images/style_3c.css",
+		"/C/Temp/NWDistrictScouts/images/style.css",
+		"/C/Users/smayfield/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/smayfield/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Temp/NWDistrictScouts/images/_vti_cnf/Scuba.wmf",
+		"/C/Temp/NWDistrictScouts/images/_vti_cnf/style.css",
+		"/C/Temp/NWDistrictScouts/files/Membership_Comm/Files/News_Release_Template.doc",
+		"/C/src/NWDistrictScouts/Training.html",
+		"/C/src/NWDistrictScouts/Training_Comm.html",
+		"/C/src/NWDistrictScouts/Units.html",
 		"/C/src/NWDistrictScouts/leadership_Comm.html",
 		"/C/src/NWDistrictScouts/Membership_Comm.html",
 		"/C/src/NWDistrictScouts/News.html",
 		"/C/src/NWDistrictScouts/Nominating_Comm.html",
 		"/C/src/NWDistrictScouts/OA.html",
 		"/C/src/NWDistrictScouts/Program_Comm.html",
-		"/C/src/NWDistrictScouts/Training.html",
-		"/C/src/NWDistrictScouts/Training_Comm.html",
-		"/C/src/NWDistrictScouts/Units.html",
-		"/C/src/NWDistrictScouts/ToDo.txt",
-		"/C/src/NWDistrictScouts/Awards.html",
-		"/C/src/NWDistrictScouts/style.css",
-		"/C/Users/Scott/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/src/NWDistrictScouts/Advancement_Comm.html",
 		"/C/src/NWDistrictScouts/default.html",
+		"/C/src/NWDistrictScouts/events.html",
+		"/C/src/NWDistrictScouts/Finance_Comm.html",
+		"/C/src/NWDistrictScouts/index.html",
+		"/C/src/NWDistrictScouts/Key3.html",
+		"/C/src/NWDistrictScouts/leader_resources.html",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/src/NWDistrictScouts/Awards.html",
+		"/C/src/NWDistrictScouts/Calendar.html",
+		"/C/src/NWDistrictScouts/Camping_Comm.html",
+		"/C/src/NWDistrictScouts/Commissioners.html",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/C/src/NWDistrictScouts/images/_vti_cnf/Scuba.wmf",
 		"/C/src/NWDistrictScouts/images/_vti_cnf/style.css",
@@ -131,13 +120,14 @@
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"c:\\temp\\nwdistrictscouts"
 		]
 	},
 	"find_state":
@@ -145,22 +135,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"<td colspan=\"4\">",
-			"</td>",
-			"<td>",
-			"</tr>",
-			"<tr>",
-			"gill",
-			"colspan=\"5\" ",
-			" height=\"17\" style=\"height:12.75pt\"",
-			" style=\"color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" width=\"165\"",
-			" style=\"color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" width=\"40\"",
-			" height=\"18\" width=\"64\" style=\"height: 13.5pt; width: 40px; color: black; white-space: normal; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; vertical-align: bottom; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\"",
-			" height=\"19\" width=\"64\" style=\"height: 14.25pt; width: 40px; color: black; white-space: normal; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; vertical-align: bottom; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\"",
-			" height=\"17\" width=\"64\" style=\"height: 12.75pt; width: 40px; color: black; white-space: normal; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; vertical-align: bottom; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\"",
-			" style=\"color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 170px; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\"",
-			" style=\"color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: bottom; white-space: nowrap; width: 165px; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\"",
-			" height=\"17\" style=\"height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; vertical-align: bottom; white-space: nowrap; width: 40px; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\""
+			"sev.org"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -168,9 +143,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"",
-			"colspan=\"4\"",
-			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -178,21 +150,13 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
-		"height": 42.0
+		"height": 27.0
 	},
 	"input":
 	{
-		"height": 47.0
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -221,10 +185,9 @@
 	{
 		"height": 0.0
 	},
-	"project": "NWDistrictScouts.sublime-project",
 	"replace":
 	{
-		"height": 80.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -258,7 +221,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 382.0,
+	"side_bar_width": 248.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
