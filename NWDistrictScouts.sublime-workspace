@@ -45,10 +45,13 @@
 	},
 	"file_history":
 	[
+		"/C/Temp/NWDistrictScouts/events.html",
+		"/C/Temp/spikes/WebAPI Experiment/WebApi.Hal/WebApi.Hal.csproj",
+		"/C/Temp/NWDistrictScouts/Calendar.html",
+		"/C/Temp/NWDistrictScouts/Camping_Comm.html",
 		"/C/Temp/NWDistrictScouts/ToDo.txt",
 		"/C/Temp/NWDistrictScouts/style.css",
 		"/C/Temp/NWDistrictScouts/Advancement_Comm.html",
-		"/C/Temp/NWDistrictScouts/Camping_Comm.html",
 		"/C/Temp/NWDistrictScouts/Commissioners.html",
 		"/C/Temp/NWDistrictScouts/Finance_Comm.html",
 		"/C/Temp/NWDistrictScouts/Key3.html",
@@ -60,11 +63,9 @@
 		"/C/Temp/NWDistrictScouts/Nominating_Comm.html",
 		"/C/Temp/NWDistrictScouts/Program_Comm.html",
 		"/C/Temp/NWDistrictScouts/Awards.html",
-		"/C/Temp/NWDistrictScouts/events.html",
 		"/C/Temp/NWDistrictScouts/index.html",
 		"/C/Temp/NWDistrictScouts/leader_resources.html",
 		"/C/Temp/NWDistrictScouts/OA.html",
-		"/C/Temp/NWDistrictScouts/Calendar.html",
 		"/C/Temp/NWDistrictScouts/Training.html",
 		"/C/Temp/NWDistrictScouts/default.html",
 		"/C/Temp/NWDistrictScouts/images/style_3c.css",
@@ -135,6 +136,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"SolutionDir",
+			"TARGETS",
 			"sev.org"
 		],
 		"highlight": true,
@@ -156,7 +159,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"layout":
 	{
