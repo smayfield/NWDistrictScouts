@@ -9,6 +9,9 @@
 			]
 		]
 	},
+	"buffers":
+	[
+	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -45,6 +48,18 @@
 	},
 	"file_history":
 	[
+		"/C/Temp/NWDistrictScouts/training.html",
+		"/C/Temp/NWDistrictScouts/files/NYLT_ESC_Brochure_2013_091712.pdf",
+		"/C/Temp/NWDistrictScouts/camping_comm.html",
+		"/C/Temp/NWDistrictScouts/program_comm.html",
+		"/C/Temp/NWDistrictScouts/files/CubLeaderTraining_03-20_03-27-13.pdf",
+		"/C/Temp/NWDistrictScouts/files/BALOO_03-02-13.pdf",
+		"/C/Temp/NWDistrictScouts/Leadership_Comm.html",
+		"/C/Temp/NWDistrictScouts/news.html",
+		"/C/Temp/NWDistrictScouts/nominating_comm.html",
+		"/C/Temp/NWDistrictScouts/oa.html",
+		"/C/Temp/NWDistrictScouts/Key3.html",
+		"/C/Temp/NWDistrictScouts/Finance_Comm.html",
 		"/C/Temp/NWDistrictScouts/events.html",
 		"/C/Temp/spikes/WebAPI Experiment/WebApi.Hal/WebApi.Hal.csproj",
 		"/C/Temp/NWDistrictScouts/Calendar.html",
@@ -53,8 +68,6 @@
 		"/C/Temp/NWDistrictScouts/style.css",
 		"/C/Temp/NWDistrictScouts/Advancement_Comm.html",
 		"/C/Temp/NWDistrictScouts/Commissioners.html",
-		"/C/Temp/NWDistrictScouts/Finance_Comm.html",
-		"/C/Temp/NWDistrictScouts/Key3.html",
 		"/C/Temp/NWDistrictScouts/leadership_Comm.html",
 		"/C/Temp/NWDistrictScouts/Membership_Comm.html",
 		"/C/Temp/NWDistrictScouts/Training_Comm.html",
@@ -153,6 +166,14 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
 	"incremental_find":
 	{
 		"height": 27.0
@@ -188,6 +209,7 @@
 	{
 		"height": 0.0
 	},
+	"project": "NWDistrictScouts.sublime-project",
 	"replace":
 	{
 		"height": 50.0
