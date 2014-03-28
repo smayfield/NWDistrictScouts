@@ -1,20 +1,21 @@
 TODO LIST
 ===========================
 
-setup facebook page
-remove font elements
-remove span elements
-remove big elements
-remove small elements
-remove all table formatting
-remove center elements
-remove all "back to top" links
-remove empty elements that have no visual effect
-replace divs with proper html5 elements
-remove extra styles on table elements
-optimize/refactor tables
-content systems that can generate static pages that I can upload?
+Setup facebook page
+	reserved http://www.facebook.com/nwdistrictscouts.
+	email sent to district asking for guidance/info on facebook.
+	still needs to be setup.
+CMS research
+	reminder that the council is already researching this.
+	something that runs on azure.
+	minimal sql server requirements would be good.
+	something that publishes static pages to the site?
+	multi-tenant would be good.
+Put up a "technical info" page for any potential contributors
+	update most technical info on github
+		description
+		roadmap
+		wiki
+		tasks?
 
-verify troop website/database is working
-point troop154.com to azure site
 
