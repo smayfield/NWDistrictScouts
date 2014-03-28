@@ -45,6 +45,8 @@ h2 { color: #0F5B7F; }
     h2 a { color: #0F5B7F; }
         h2 a:hover { color: #0F5BAF; text-decoration: none; }
     h2.banner { color: #ffffff; margin-top: 5px; }
+
+.leadership-title { font-weight: bold; }
 /*
 ul { margin: 5px 0 20px 15px; padding : 0; list-style : none;  }
 li { list-style-type: none;	color: #F29900;	margin: 0 0 0px 0;	padding: 0 0 0 0px; }

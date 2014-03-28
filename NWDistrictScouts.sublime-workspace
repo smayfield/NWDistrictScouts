@@ -11,6 +11,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Training_Comm.html",
+			"settings":
+			{
+				"buffer_size": 31518,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 5374,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -48,6 +64,7 @@
 	},
 	"file_history":
 	[
+		"/C/Temp/NWDistrictScouts/Commissioners.html",
 		"/C/Temp/NWDistrictScouts/leadership_comm.html",
 		"/C/Temp/NWDistrictScouts/ToDo.txt",
 		"/C/Temp/NWDistrictScouts/finance_comm.html",
@@ -71,7 +88,6 @@
 		"/C/Temp/NWDistrictScouts/Camping_Comm.html",
 		"/C/Temp/NWDistrictScouts/style.css",
 		"/C/Temp/NWDistrictScouts/Advancement_Comm.html",
-		"/C/Temp/NWDistrictScouts/Commissioners.html",
 		"/C/Temp/NWDistrictScouts/leadership_Comm.html",
 		"/C/Temp/NWDistrictScouts/Membership_Comm.html",
 		"/C/Temp/NWDistrictScouts/Training_Comm.html",
@@ -175,8 +191,69 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Training_Comm.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9064,
+								9064
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3040.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3533,
+								3533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
