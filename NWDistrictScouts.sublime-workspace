@@ -9,9 +9,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -48,6 +45,7 @@
 	},
 	"file_history":
 	[
+		"/C/Temp/NWDistrictScouts/calendar.html",
 		"/C/Temp/NWDistrictScouts/training.html",
 		"/C/Temp/NWDistrictScouts/files/NYLT_ESC_Brochure_2013_091712.pdf",
 		"/C/Temp/NWDistrictScouts/camping_comm.html",
@@ -166,14 +164,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 27.0
@@ -209,7 +199,6 @@
 	{
 		"height": 0.0
 	},
-	"project": "NWDistrictScouts.sublime-project",
 	"replace":
 	{
 		"height": 50.0
