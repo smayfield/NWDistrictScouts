@@ -9,6 +9,9 @@
 			]
 		]
 	},
+	"buffers":
+	[
+	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -45,6 +48,7 @@
 	},
 	"file_history":
 	[
+		"/C/Temp/NWDistrictScouts/leadership_comm.html",
 		"/C/Temp/NWDistrictScouts/ToDo.txt",
 		"/C/Temp/NWDistrictScouts/finance_comm.html",
 		"/C/Temp/NWDistrictScouts/key3.html",
@@ -149,6 +153,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"leadership-position",
 			"SolutionDir",
 			"TARGETS",
 			"sev.org"
@@ -159,6 +164,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"leadership-title"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -166,6 +172,14 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
 	"incremental_find":
 	{
 		"height": 27.0
@@ -201,9 +215,10 @@
 	{
 		"height": 0.0
 	},
+	"project": "NWDistrictScouts.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
