@@ -1,16 +1,21 @@
 TODO LIST
 ===========================
 
-Setup facebook page
-	reserved http://www.facebook.com/nwdistrictscouts.
-	email sent to district asking for guidance/info on facebook.
-	still needs to be setup.
+Cleanup
+	units.html
+	leader_resources.html
+
+Add links to district facebook page.
+	How do I get updates from the site posted on the district page? 
+		I can probably just post to that wall.
+
 CMS research
 	reminder that the council is already researching this.
 	something that runs on azure.
 	minimal sql server requirements would be good.
 	something that publishes static pages to the site?
 	multi-tenant would be good.
+
 Put up a "technical info" page for any potential contributors
 	update most technical info on github
 		description
