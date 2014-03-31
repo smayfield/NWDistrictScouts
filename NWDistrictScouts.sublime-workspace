@@ -5,9 +5,6 @@
 		[
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -44,6 +41,8 @@
 	},
 	"file_history":
 	[
+		"/C/Temp/NWDistrictScouts/Training_Comm.html",
+		"/C/Temp/NWDistrictScouts/Training.html",
 		"/C/src/NWDistrictScouts/events.html",
 		"/C/src/NWDistrictScouts/calendar.html",
 		"/C/src/NWDistrictScouts/camping_comm.html",
@@ -145,6 +144,24 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" height=\"17\" align=\"center\" style=\"height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" bgcolor=\"#FF0000\"",
+			" width=\"69\" align=\"center\" valign=\"top\" bgcolor=\"#000000\"",
+			"<span style=\"font-family: Arial;\">",
+			" height=\"17\" align=\"center\" style=\"height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" colspan=\"4\"",
+			"<br>",
+			"<td >",
+			"</font>",
+			"<font size=\"2\">",
+			"</font></b>",
+			"<b><font size=\"3\" color=\"#FFFFFF\">",
+			" style=\"color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" width=\"141\" align=\"left\"",
+			" style=\"color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" width=\"145\" align=\"left\"",
+			"  bgcolor=\"#CCCCCC\"",
+			" style=\"color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" width=\"141\" align=\"left\" bgcolor=\"#CCCCCC\"",
+			" style=\"color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" width=\"145\" align=\"left\" bgcolor=\"#CCCCCC\"",
+			" height=\"17\" align=\"center\" style=\"height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" bgcolor=\"#0F5BFF\"",
+			" height=\"17\" style=\"height:12.75pt\"",
+			"style=\"color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" width=\"159\" align=\"left\"",
 			"<td colspan=\"4\">",
 			"</td>",
 			"<td>",
@@ -169,6 +186,9 @@
 		"replace_history":
 		[
 			"",
+			"<br />",
+			"<td>",
+			"",
 			"colspan=\"4\"",
 			""
 		],
@@ -178,14 +198,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 37.0
@@ -221,10 +233,9 @@
 	{
 		"height": 0.0
 	},
-	"project": "NWDistrictScouts.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
