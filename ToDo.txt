@@ -6,8 +6,7 @@ Cleanup
 	leader_resources.html
 
 Add links to district facebook page.
-	How do I get updates from the site posted on the district page? 
-		I can probably just post to that wall.
+	I'm an admin now, so I should be able to post stuff.
 
 CMS research
 	reminder that the council is already researching this.
