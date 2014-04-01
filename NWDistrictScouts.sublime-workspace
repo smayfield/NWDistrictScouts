@@ -144,6 +144,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".com/\"",
+			".org/\"",
 			" height=\"17\" align=\"center\" style=\"height: 12.75pt; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; font-family: Arial; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" bgcolor=\"#000080\"",
 			" style=\"font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" width=\"141\" align=\"left\" bgcolor=\"#CCCCCC\"",
 			" style=\"font-family: Arial, sans-serif; color: windowtext; font-size: 10.0pt; font-weight: 400; font-style: normal; text-decoration: none; text-align: general; vertical-align: middle; white-space: nowrap; border: medium none; padding-left: 1px; padding-right: 1px; padding-top: 1px\" width=\"145\" align=\"left\" bgcolor=\"#CCCCCC\"",
@@ -194,6 +196,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			".com\"",
+			".org\"",
 			"",
 			"<br />",
 			"<td>",
