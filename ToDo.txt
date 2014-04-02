@@ -1,9 +1,12 @@
 TODO LIST
 ===========================
 
-Cleanup
-	units.html
-	leader_resources.html
+Analyze all the things.
+	Google Analytics
+	YSlow
+
+Setup deployment from github
+	no reason I should be ftping stuff from whatever computer I'm on.
 
 Add links to district facebook page.
 	I'm an admin now, so I should be able to post stuff.
@@ -14,6 +17,8 @@ CMS research
 	minimal sql server requirements would be good.
 	something that publishes static pages to the site?
 	multi-tenant would be good.
+	Candidates:
+		* Cushy
 
 Put up a "technical info" page for any potential contributors
 	update most technical info on github
@@ -24,16 +29,3 @@ Put up a "technical info" page for any potential contributors
 
 
 
-Leadership Resources
-	Tags
-		Rank, A&S, Merit Badge & Helps
-		Leadership Admin Info
-		Events
-		Songs
-		Skits
-		Activities
-		Games
-		Cooking
-		Clipart
-		Ceremonies
-		Misc
