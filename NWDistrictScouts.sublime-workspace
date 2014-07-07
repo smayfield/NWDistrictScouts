@@ -8,35 +8,12 @@
 	"buffers":
 	[
 		{
-			"file": "Units.html",
+			"file": "/C/Users/Scott/Desktop/Raj.txt",
 			"settings":
 			{
-				"buffer_size": 21050,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "style.css",
-			"settings":
-			{
-				"buffer_size": 3374,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "leadership_Comm.html",
-			"settings":
-			{
-				"buffer_size": 6221,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "OA.html",
-			"settings":
-			{
-				"buffer_size": 3365,
-				"line_ending": "Windows"
+				"buffer_size": 1116,
+				"line_ending": "Windows",
+				"name": "TORRENTS"
 			}
 		}
 	],
@@ -76,21 +53,23 @@
 	},
 	"file_history":
 	[
+		"/C/src/NWDistrictScouts/events.html",
 		"/C/src/NWDistrictScouts/index.html",
-		"/C/src/NWDistrictScouts/Units.html",
-		"/C/src/NWDistrictScouts/Training_Comm.html",
-		"/C/src/NWDistrictScouts/.gitignore",
+		"/C/Users/Scott/Desktop/Viva Notes.txt",
+		"/C/Users/Scott/Desktop/stuff.txt",
+		"/C/Users/Scott/Desktop/DrAPI Notes.txt",
+		"/C/Users/Scott/Desktop/Cleanup.txt",
+		"/C/src/NWDistrictScouts/awards/district_award_of_merit.html",
+		"/C/src/NWDistrictScouts/awards/index.html",
 		"/C/src/NWDistrictScouts/awards/boy_scout_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/crew_advisor_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/cub_scout_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/cubmaster_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/den_leader_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/district_award_of_merit.html",
 		"/C/src/NWDistrictScouts/awards/district_committee_member_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/district_executives_award.html",
 		"/C/src/NWDistrictScouts/awards/eagle_scout_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/explorer_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/index.html",
 		"/C/src/NWDistrictScouts/awards/oa_youth_member_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/parent_volunteer_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/post_advisor_of_the_year.html",
@@ -103,19 +82,23 @@
 		"/C/src/NWDistrictScouts/awards/unit_commissioner_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/unit_committee_member_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/venturer_of_the_year.html",
+		"/C/src/NWDistrictScouts/Awards.html",
+		"/C/src/NWDistrictScouts/OA.html",
+		"/C/src/NWDistrictScouts/leadership_Comm.html",
+		"/C/src/NWDistrictScouts/style.css",
+		"/C/src/NWDistrictScouts/Units.html",
+		"/C/src/NWDistrictScouts/Training_Comm.html",
+		"/C/src/NWDistrictScouts/.gitignore",
 		"/C/src/NWDistrictScouts/Advancement_Comm.html",
 		"/C/src/NWDistrictScouts/Calendar.html",
 		"/C/src/NWDistrictScouts/Camping_Comm.html",
 		"/C/src/NWDistrictScouts/Commissioners.html",
-		"/C/src/NWDistrictScouts/events.html",
 		"/C/src/NWDistrictScouts/Finance_Comm.html",
 		"/C/src/NWDistrictScouts/Key3.html",
 		"/C/src/NWDistrictScouts/leader_resources.html",
-		"/C/src/NWDistrictScouts/leadership_Comm.html",
 		"/C/src/NWDistrictScouts/Membership_Comm.html",
 		"/C/src/NWDistrictScouts/News.html",
 		"/C/src/NWDistrictScouts/Nominating_Comm.html",
-		"/C/src/NWDistrictScouts/OA.html",
 		"/C/src/NWDistrictScouts/Program_Comm.html",
 		"/C/src/NWDistrictScouts/Training.html",
 		"/C/src/NWDistrictScouts/calendar.html",
@@ -134,8 +117,6 @@
 		"/C/src/NWDistrictScouts/training_comm.html",
 		"/C/src/NWDistrictScouts/units.html",
 		"/C/src/NWDistrictScouts/ToDo.txt",
-		"/C/src/NWDistrictScouts/Awards.html",
-		"/C/src/NWDistrictScouts/style.css",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/src/NWDistrictScouts/default.html",
 		"/C/Users/Scott/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
@@ -143,10 +124,7 @@
 		"/C/src/NWDistrictScouts/images/_vti_cnf/Scuba.wmf",
 		"/C/src/NWDistrictScouts/images/_vti_cnf/style.css",
 		"/C/src/NWDistrictScouts/files/Membership_Comm/Files/News_Release_Template.doc",
-		"/C/Users/Scott/Desktop/DrAPI Notes.txt",
-		"/C/Users/Scott/Desktop/stuff.txt",
 		"/C/Users/Scott/Desktop/qBook Notes.txt",
-		"/C/Users/Scott/Desktop/Cleanup.txt",
 		"/C/Users/Scott/SkyDrive/Viva/Meeting Notes.txt",
 		"/C/temp/test.md",
 		"/C/Users/Scott/AppData/Roaming/RabbitMQ/log/rabbit@SURFACE.log",
@@ -164,7 +142,7 @@
 	],
 	"find":
 	{
-		"height": 50.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -215,124 +193,33 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Units.html",
+					"file": "/C/Users/Scott/Desktop/Raj.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21050,
+						"buffer_size": 1116,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3185,
-								3185
+								563,
+								563
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "TORRENTS",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 828.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3374,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3204,
-								3204
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 552.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "leadership_Comm.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6221,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								735,
-								735
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 209.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "OA.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3365,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1255,
-								1255
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 414.0,
+						"translation.y": 87.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -343,7 +230,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 37.0
 	},
 	"input":
 	{
@@ -379,7 +266,7 @@
 	"project": "NWDistrictScouts.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -412,8 +299,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 382.0,
+	"side_bar_visible": false,
+	"side_bar_width": 326.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
