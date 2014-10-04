@@ -7,97 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_atoms.erl",
-			"settings":
-			{
-				"buffer_size": 544,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_boolean_expressions.erl",
-			"settings":
-			{
-				"buffer_size": 1138,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_strings.erl",
-			"settings":
-			{
-				"buffer_size": 818,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_binaries.erl",
-			"settings":
-			{
-				"buffer_size": 544,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_dicts.erl",
-			"settings":
-			{
-				"buffer_size": 1411,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "-module(about_maps).\n-export([reading_a_key/0,\n         adding_a_new_key/0,\n         updating_an_existing_key/0,\n         matching_the_interesting_bits/0\n        ]).\n\n%%% maps are new in erlang v17.\n%%% more efficient dictionary using hash mapping.\n%%% replaces dict\n%%% study - why all the comas, why not . ?  what's going on here?\n\nreading_a_key() ->\n    Map = #{key => val},\n    val =:= maps:get(key, Map).\n\nadding_a_new_key() ->\n    Map = #{key1 => val1},\n    NextMap = Map#{key2 => val2},\n    val2 =:= maps:get(key2, NextMap).\n\nupdating_an_existing_key() ->\n    Map = #{key => val1},\n    NextMap = Map#{key := val2},\n    val2 =:= maps:get(key, NextMap).\n\nmatching_the_interesting_bits() ->\n    Map = #{apple => 0.79, banana => 0.59},\n    #{apple := ApplePrice} = Map,\n    0.79 =:= ApplePrice.\n\n",
-			"file": "/C/Erlang/erlang-koans/src/about_maps.erl",
-			"file_size": 651,
-			"file_write_time": 130534711863561979,
-			"settings":
-			{
-				"buffer_size": 799,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_integers.erl",
-			"settings":
-			{
-				"buffer_size": 1012,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_pattern_matching.erl",
-			"settings":
-			{
-				"buffer_size": 1128,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_guard_clauses.erl",
-			"settings":
-			{
-				"buffer_size": 682,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_lists.erl",
-			"settings":
-			{
-				"buffer_size": 1423,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Erlang/erlang-koans/src/about_list_comprehensions.erl",
-			"settings":
-			{
-				"buffer_size": 420,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -133,30 +42,15 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/src/NWDistrictScouts"
+	],
 	"file_history":
 	[
-		"/C/Users/Scott/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Erlang/erlang-koans/src/about_atoms.erl",
-		"/C/temp/erlang notes.txt",
-		"/C/src/NWDistrictScouts/index.html",
-		"/C/Users/Scott/Downloads/zork1/README.TXT",
-		"/C/Users/Scott/Desktop/Raj.txt",
-		"/C/src/NWDistrictScouts/events.html",
-		"/C/Users/Scott/Desktop/Viva Notes.txt",
-		"/C/Users/Scott/Desktop/stuff.txt",
-		"/C/Users/Scott/Desktop/DrAPI Notes.txt",
-		"/C/Users/Scott/Desktop/Cleanup.txt",
-		"/C/src/NWDistrictScouts/awards/district_award_of_merit.html",
-		"/C/src/NWDistrictScouts/awards/index.html",
-		"/C/src/NWDistrictScouts/awards/boy_scout_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/crew_advisor_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/cub_scout_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/cubmaster_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/den_leader_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/district_committee_member_of_the_year.html",
-		"/C/src/NWDistrictScouts/awards/district_executives_award.html",
 		"/C/src/NWDistrictScouts/awards/eagle_scout_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/explorer_of_the_year.html",
+		"/C/src/NWDistrictScouts/awards/index.html",
 		"/C/src/NWDistrictScouts/awards/oa_youth_member_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/parent_volunteer_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/post_advisor_of_the_year.html",
@@ -169,25 +63,54 @@
 		"/C/src/NWDistrictScouts/awards/unit_commissioner_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/unit_committee_member_of_the_year.html",
 		"/C/src/NWDistrictScouts/awards/venturer_of_the_year.html",
-		"/C/src/NWDistrictScouts/Awards.html",
-		"/C/src/NWDistrictScouts/OA.html",
-		"/C/src/NWDistrictScouts/leadership_Comm.html",
-		"/C/src/NWDistrictScouts/style.css",
-		"/C/src/NWDistrictScouts/Units.html",
-		"/C/src/NWDistrictScouts/Training_Comm.html",
-		"/C/src/NWDistrictScouts/.gitignore",
 		"/C/src/NWDistrictScouts/Advancement_Comm.html",
 		"/C/src/NWDistrictScouts/Calendar.html",
 		"/C/src/NWDistrictScouts/Camping_Comm.html",
 		"/C/src/NWDistrictScouts/Commissioners.html",
+		"/C/src/NWDistrictScouts/events.html",
 		"/C/src/NWDistrictScouts/Finance_Comm.html",
+		"/C/src/NWDistrictScouts/index.html",
 		"/C/src/NWDistrictScouts/Key3.html",
 		"/C/src/NWDistrictScouts/leader_resources.html",
 		"/C/src/NWDistrictScouts/Membership_Comm.html",
-		"/C/src/NWDistrictScouts/News.html",
 		"/C/src/NWDistrictScouts/Nominating_Comm.html",
+		"/C/src/NWDistrictScouts/OA.html",
 		"/C/src/NWDistrictScouts/Program_Comm.html",
 		"/C/src/NWDistrictScouts/Training.html",
+		"/C/src/NWDistrictScouts/Training_Comm.html",
+		"/C/src/NWDistrictScouts/Units.html",
+		"/C/src/NWDistrictScouts/awards/boy_scout_of_the_year.html",
+		"/C/src/NWDistrictScouts/awards/crew_advisor_of_the_year.html",
+		"/C/src/NWDistrictScouts/awards/cub_scout_of_the_year.html",
+		"/C/src/NWDistrictScouts/awards/cubmaster_of_the_year.html",
+		"/C/src/NWDistrictScouts/awards/den_leader_of_the_year.html",
+		"/C/src/NWDistrictScouts/awards/district_award_of_merit.html",
+		"/C/src/NWDistrictScouts/awards/district_committee_member_of_the_year.html",
+		"/C/src/NWDistrictScouts/awards/district_executives_award.html",
+		"/C/Erlang/erlang-koans/src/about_dicts.erl",
+		"/C/Erlang/erlang-koans/src/about_atoms.erl",
+		"/C/Erlang/erlang-koans/src/about_boolean_expressions.erl",
+		"/C/Erlang/erlang-koans/src/about_strings.erl",
+		"/C/Erlang/erlang-koans/src/about_binaries.erl",
+		"/C/Erlang/erlang-koans/src/about_maps.erl",
+		"/C/Erlang/erlang-koans/src/about_integers.erl",
+		"/C/Erlang/erlang-koans/src/about_pattern_matching.erl",
+		"/C/Erlang/erlang-koans/src/about_guard_clauses.erl",
+		"/C/Erlang/erlang-koans/src/about_lists.erl",
+		"/C/Erlang/erlang-koans/src/about_list_comprehensions.erl",
+		"/C/Users/Scott/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/temp/erlang notes.txt",
+		"/C/Users/Scott/Downloads/zork1/README.TXT",
+		"/C/Users/Scott/Desktop/Raj.txt",
+		"/C/Users/Scott/Desktop/Viva Notes.txt",
+		"/C/Users/Scott/Desktop/stuff.txt",
+		"/C/Users/Scott/Desktop/DrAPI Notes.txt",
+		"/C/Users/Scott/Desktop/Cleanup.txt",
+		"/C/src/NWDistrictScouts/Awards.html",
+		"/C/src/NWDistrictScouts/leadership_Comm.html",
+		"/C/src/NWDistrictScouts/style.css",
+		"/C/src/NWDistrictScouts/.gitignore",
+		"/C/src/NWDistrictScouts/News.html",
 		"/C/src/NWDistrictScouts/calendar.html",
 		"/C/src/NWDistrictScouts/camping_comm.html",
 		"/C/src/NWDistrictScouts/commissioners.html",
@@ -229,7 +152,7 @@
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -280,339 +203,14 @@
 	"groups":
 	[
 		{
-			"selected": 5,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Erlang/erlang-koans/src/about_atoms.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 544,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								541,
-								541
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Erlang/erlang-koans/src/about_boolean_expressions.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1138,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1138,
-								1138
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1353.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Erlang/erlang-koans/src/about_strings.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 818,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								767,
-								767
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Erlang/erlang-koans/src/about_binaries.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 544,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								511,
-								511
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Erlang/erlang-koans/src/about_dicts.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1411,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1243,
-								1243
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1353.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Erlang/erlang-koans/src/about_maps.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 799,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								781,
-								781
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 615.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Erlang/erlang-koans/src/about_integers.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1012,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								991,
-								991
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 861.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Erlang/erlang-koans/src/about_pattern_matching.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1128,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1117,
-								1117
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1107.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/C/Erlang/erlang-koans/src/about_guard_clauses.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 682,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								579,
-								579
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 303.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/C/Erlang/erlang-koans/src/about_lists.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1423,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1421,
-								1421
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1230.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/C/Erlang/erlang-koans/src/about_list_comprehensions.erl",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 420,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								418,
-								418
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Erlang/Erlang.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 38.0
 	},
 	"input":
 	{
@@ -648,7 +246,7 @@
 	"project": "NWDistrictScouts.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -675,6 +273,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
